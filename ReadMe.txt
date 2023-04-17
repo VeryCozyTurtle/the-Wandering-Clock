@@ -1,0 +1,1 @@
+This code will initialize and run a clock that ticks without pattern. idk what else to say.
